@@ -1,7 +1,7 @@
 <div id="header" align="center">
      <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200" />
      <h1 aligno"center">Hi , I´m Donald Hernandez from Guatemala</h1>
-     <h3 align="center"> I am a person in search of new opportunities as a Full-Stack .NET developer, I have currently completed a module as a developer in Microsoft              .NET developing knowledge, concepts, skills and attitudes in the development of business applications based on the development of API's Rest, web services and            database management. Using different tools such as Visual Code, Postman, RabbitMQ, SQL Server, Entity Framework, ASP.NET Web API, Docket Desktop, Git and                GitHub.
+     <h3 align="center"> I am a person in search of new opportunities as a Full-Stack .NET developer, I have currently completed a module as a developer in Microsoft              .NET developing knowledge, concepts, skills and attitudes in the development of business applications based on the development of API's Rest, web services and            database management. Using different tools such as Visual Code, Postman, RabbitMQ, SQL Server, Entity Framework, ASP.NET Web API, Docker Desktop, Git and                GitHub.
      </h3>
      <h3 align="center"> It will be a pleasure to be part of a team that gives me the opportunity to grow professionally in development, since that is my vision and d            ream, to put into practice the knowledge acquired to perfect it in the world of development. 
      </h3>
